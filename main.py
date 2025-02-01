@@ -112,7 +112,7 @@ def create_qr_with_logo_label_and_frame(
     print(f"QR Code with logo, label (Arial Black, size 14, framed), and black border saved to {output_path}")
 
 
-# Example usage
+# Example usages
 url = "https://sites.google.com/view/qr-aris/qr-wtp/pupe-0013"
 logo_path = "Aros _RPCI.jpg"  # Path to your logo image file
 label = "PUPE-0013"  # Label text to display below the QR code
